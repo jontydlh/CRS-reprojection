@@ -11,3 +11,6 @@ A tool for batch-converting a series of coordinates from one Coordinate Referenc
 
 * The tool creates a new CSV file in the same directory as itself, called "reprojected.csv".  
   _This is a copy of the original csv, with the reprojected coordinates appended._
+
+_An example CSV file is included: "Example_LD_Peaks.csv", listing the 6 highest peaks in the English Lake District  
+and their latitude and longitude (EPSG:4326)._
